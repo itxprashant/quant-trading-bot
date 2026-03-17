@@ -1,0 +1,13 @@
+node_modules
+.venv
+__pycache__
+*.pyc
+.git
+.gitignore
+market_data.sqlite3
+market_data.sqlite3-shm
+market_data.sqlite3-wal
+curl.txt
+Dockerfile
+.dockerignore
+README.md

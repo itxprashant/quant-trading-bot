@@ -2,6 +2,10 @@
 
 An automated **market-making bot** for the [DevClub Quant Trading Simulation](https://quant.devclub.in). It continuously quotes buy and sell orders around the mid-price, skewing prices based on current inventory to manage risk and capture the spread.
 
+This bot placed first in the Quant Trading Simulation challenge.
+
+Made by: Sumit Kumar Saw (3x3cu73) and tweaked by me (itxprashant).
+
 Two interchangeable implementations are provided:
 
 | Variant | Runtime | API Transport | Best For |
